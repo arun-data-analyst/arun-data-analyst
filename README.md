@@ -1,61 +1,63 @@
-# 👋 Hi, I’m Arun Acharya (`@arun-data-analyst`)
+# 👋 Hi, I’m Arun Acharya (@arun-data-analyst)
 
-🎯 I’m a data analyst student passionate about turning raw data into meaningful insights — and building tools that make it **fun, intuitive, and useful** for real people.
+🎯 I design and build practical, data-powered apps — turning raw datasets into polished tools, insights, and user-friendly interfaces.
+
+Currently focused on:
+- No-code data cleaning platforms
+- Real estate listing generators
+- Freelancer-ready, AI-augmented web tools
 
 ---
 
 ## 🧠 What I Do
 
-- 🔍 Data cleaning and preparation (Pandas, OpenRefine, regex)
-- 📊 Exploratory data analysis (EDA)
-- 📈 Dashboarding and report generation
-- 🛠️ Web scraping (Selenium, BeautifulSoup)
-- ⚡ Streamlit app development — from idea to deploy!
+- 🧹 Data cleaning & automation (regex, Pandas, OpenRefine)
+- 📊 Exploratory data analysis & visualization
+- ⚡ Streamlit app development — full-stack workflows
+- 🕸️ Web scraping (Selenium, BeautifulSoup)
+- 🧪 Lightweight ML integration (scikit-learn)
 
 ---
 
-## 🚀 Featured Project: RedBrick Realty
+## 🚀 Featured Project
 
-🔗 **[RedBrick Realty – Arsenal-themed Real Estate Listing Generator](https://github.com/arun-data-analyst/RedBrick-Realty)**  
-A full-stack Streamlit app that:
-- Generates **luxury listing descriptions** using GPT
-- Accepts CSV uploads and generates market-ready outputs
-- Includes a bonus **real estate price predictor** powered by machine learning
-- Fully themed, responsive, and fun to use
+### [🔗 RedBrick Realty – Arsenal-themed Real Estate Listing Generator](https://github.com/arun-data-analyst/RedBrick-Realty)
+A full-featured Streamlit app that:
 
-> 🛡️ *Crafted with precision, inspired by Arsenal FC.*
+- Generates luxury-style real estate listings using GPT
+- Accepts user CSVs or runs in demo mode
+- Includes a real estate price predictor
+- Arsenal-themed and portfolio-ready
+
+🛡️ Cleanly structured. Secure. Fun. Inspired by Arsenal FC.
 
 ---
 
 ## 🧰 Tools & Technologies
 
-![Python](https://img.shields.io/badge/-Python-333?logo=python)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql)  
-![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
+Python • Pandas • Streamlit • scikit-learn  
+SQL • OpenAI API • Regex • GitHub  
+Selenium • BeautifulSoup 
 
 ---
 
-## 💡 What I’m Working On
+## 💡 Currently Working On
 
-- Building **CleanEasy**, a no-code data cleaning platform
-- Growing my portfolio with **freelance-friendly apps**
-- Learning ML techniques for **real-world tools**, not just toy datasets
+- 🧼 **CleanEasy** – a no-code, professional-grade data cleaner
+- 📦 Modular components for app reuse and freelancing
+- 🎯 Real-world ML — moving beyond toy datasets
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🤝 Open to Collaborate
 
 Looking for:
-- Entry-level or freelance projects
-- Real-world datasets to clean or analyze
-- Clients who want **custom data tools**, dashboards, or app interfaces
-
-📬 Contact: `acharya.arun@outlook.com`  
-📍 Based in Ottawa, Canada
+- Freelance-friendly projects with real-world goals
+- Small business data dashboards or reporting tools
+- Startups that need custom data workflows or AI integration
 
 ---
 
-### 🔴 Forever a Gunner, always building.
-
+📬 Reach Me: **acharya.arun@outlook.com**  
+📍 Based in Ottawa, Canada  
+🔴 Forever a Gunner, always building.
