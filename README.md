@@ -1,63 +1,45 @@
 # 👋 Hi, I’m Arun Acharya (@arun-data-analyst)
 
-🎯 I design and build practical, data-powered apps — turning raw datasets into polished tools, insights, and user-friendly interfaces.
-
-Currently focused on:
-- No-code data cleaning platforms
-- Real estate listing generators
-- Freelancer-ready, AI-augmented web tools
+## **Turning Healthcare Data Into Actionable Insights**  
+I analyze healthcare and public health datasets to uncover trends, support evidence-based decision-making, and build data-driven solutions.  
+My focus is on improving health outcomes through clean, reliable, and insightful data.
 
 ---
 
-## 🧠 What I Do
-
-- 🧹 Data cleaning & automation (regex, Pandas, OpenRefine)
-- 📊 Exploratory data analysis & visualization
-- ⚡ Streamlit app development — full-stack workflows
-- 🕸️ Web scraping (Selenium, BeautifulSoup)
-- 🧪 Lightweight ML integration (scikit-learn)
+## 🔍 What I Focus On
+- **Healthcare Data Analysis** — population health studies, prevalence estimation, and health equity analytics  
+- **Data Cleaning & Validation** — ensuring data quality for accurate reporting and downstream analysis  
+- **SQL & Python Automation** — building repeatable workflows to streamline complex data processing  
+- **Visualization & Reporting** — creating clear, decision-ready dashboards and reports (Power BI, Excel)
 
 ---
 
-## 🚀 Featured Project
+## 📈 Recent Projects
+### [📊 Chronic Disease Prevalence – CCHS 2019–2020](https://github.com/arun-data-analyst/Healthcare-Analytics-Projects)
+- Secondary analysis of Canadian Community Health Survey data  
+- Explored chronic condition burden across age, income, gender, and geography  
+- Produced literature-informed reports highlighting health equity implications
 
-### [🔗 RedBrick Realty – Arsenal-themed Real Estate Listing Generator](https://github.com/arun-data-analyst/RedBrick-Realty)
-A full-featured Streamlit app that:
-
-- Generates luxury-style real estate listings using GPT
-- Accepts user CSVs or runs in demo mode
-- Includes a real estate price predictor
-- Arsenal-themed and portfolio-ready
-
-🛡️ Cleanly structured. Secure. Fun. Inspired by Arsenal FC.
+### [⚙️ Automated Reporting Filter – Koza IT Services](https://github.com/arun-data-analyst)
+- Implemented SQL filter logic within stored procedures  
+- Reduced manual effort and improved reporting accuracy  
 
 ---
 
 ## 🧰 Tools & Technologies
-
-Python • Pandas • Streamlit • scikit-learn  
-SQL • OpenAI API • Regex • GitHub  
-Selenium • BeautifulSoup 
-
----
-
-## 💡 Currently Working On
-
-- 🧼 **CleanEasy** – a no-code, professional-grade data cleaner
-- 📦 Modular components for app reuse and freelancing
-- 🎯 Real-world ML — moving beyond toy datasets
+SQL • Python • Pandas • NumPy • Power BI • Advanced Excel  
+Data Cleaning • Survey Data (CCHS) • ICD‑10‑CA & CCI Basics  
+GitHub • Streamlit • Selenium • BeautifulSoup  
 
 ---
 
-## 🤝 Open to Collaborate
-
-Looking for:
-- Freelance-friendly projects with real-world goals
-- Small business data dashboards or reporting tools
-- Startups that need custom data workflows or AI integration
+## 🎯 Current Goals
+- Build interactive healthcare dashboards using **Power BI**  
+- Strengthen expertise in **healthcare coding systems (ICD‑10‑CA, CCI)**  
+- Continue publishing healthcare analytics projects  
 
 ---
 
-📬 Reach Me: **acharya.arun@outlook.com**  
-📍 Based in Ottawa, Canada  
-🔴 Forever a Gunner, always building.
+## 📬 Connect With Me
+**Email**: acharya.arun@outlook.com  
+**Location**: Ottawa, Canada
