@@ -1,27 +1,36 @@
 # 👋 Hi, I’m Arun Acharya (@arun-data-analyst)
 
-## **Data Analyst | Healthcare Focus | Equity Advocate**
+## **Data Analyst | SQL • Python • Power BI | Healthcare & Beyond**
 
-I’m a data analyst with a broad skill set in cleaning, analyzing, and visualizing complex datasets — but my passion lies in **healthcare and public health analytics**.  
-I believe numbers are not just statistics; they are stories of people. My work is driven by the goal of making healthcare data **actionable**, helping decision-makers close gaps in equity, and becoming a **voice for those whose struggles are hidden in the data**.  
+I’m a data analyst with a strong foundation in **data cleaning, analysis, and visualization**.  
+My experience spans across **healthcare, IT services, and retail analytics** — where I’ve built end-to-end solutions to transform raw data into insights that support decision-making.  
 
-With each project, I aim to turn raw data into insights that can inform fairer policies, improve outcomes, and highlight the inequities that demand attention.  
+While I’m passionate about **healthcare and public health analytics**, I also apply my skills to broader domains including **retail price forecasting, automation, and business intelligence dashboards**.  
 
 ---
 
 ## 🔍 What I Focus On
-- **Healthcare Data Analysis** — population health studies, prevalence estimation, and health equity analytics  
-- **Data Cleaning & Validation** — ensuring data quality for accurate reporting and downstream analysis  
-- **SQL & Python Automation** — building repeatable workflows to streamline complex data processing  
-- **Visualization & Reporting** — creating clear, decision-ready dashboards and reports (**Power BI, Excel, Streamlit**)  
+- **Data Cleaning & Validation** — ensuring accuracy and reliability in datasets  
+- **SQL & Python Analysis** — building repeatable, automated workflows  
+- **Visualization & Reporting** — dashboards and decision-ready visuals (Power BI, Excel, Streamlit)  
+- **Healthcare & Public Health Analytics** — analyzing population health data and inequities  
+- **Applied Machine Learning** — predictive models for pricing, demand, and resource planning  
 
 ---
 
 ## 📈 Recent Projects
-### 📊 Chronic Disease Prevalence – CCHS 2019–2020
-- **Canada-Wide Report:** Analysed national burden of 10 chronic conditions across **age, income, sex, and geography**  
-- **Ontario Deep-Dive Report:** Focused on Ontario-specific inequities, showing how **age and income drive disparities** despite Ontario mirroring Canada overall  
-- Produced structured research reports with figures, tables, and literature-informed interpretation  
+
+### 📊 Chronic Disease Prevalence – CCHS 2019–2020 [GitHub](https://github.com/arun-data-analyst/Healthcare-Analytics-Project)
+- Analyzed Canadian Community Health Survey data to estimate prevalence of 10 chronic conditions  
+- Stratified by **age, sex, income, and province**, producing publication-ready equity reports  
+
+### 📊 Healthcare Dashboard [GitHub](https://github.com/arun-data-analyst/healthcare-dashboard)
+- Built a **Power BI dashboard** visualizing chronic disease prevalence and inequality gaps  
+- Showcased disparities across four sociodemographic groups  
+
+### 🛒 Retail Price Prediction [GitHub](https://github.com/arun-data-analyst/retail-price-prediction)
+- Applied **linear regression** to predict retail product prices based on features  
+- Identified patterns in seasonal pricing and demand fluctuations  
 
 ### ⚙️ Automated Reporting Filter – Koza IT Services
 - Implemented **SQL filter logic** within stored procedures  
@@ -30,18 +39,19 @@ With each project, I aim to turn raw data into insights that can inform fairer p
 ---
 
 ## 🧰 Tools & Technologies
-- **Data Analysis:** SQL • Python (**Pandas, NumPy**) • Excel  
-- **Visualization:** Power BI • Streamlit • Matplotlib/Seaborn  
-- **Data Sources:** Survey Data (**CCHS**) • Healthcare Coding Systems (**ICD-10-CA, CCI Basics**)  
-- **Automation & Web:** GitHub • Selenium • BeautifulSoup  
+- **Languages:** SQL • Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Visualization:** Power BI • Streamlit • Excel  
+- **Data Cleaning & Processing:** pandas, regex, ETL workflows  
+- **Domains:** Healthcare Analytics • Retail Forecasting • IT Services Reporting  
+- **Other Tools:** GitHub • Selenium • BeautifulSoup • Microsoft 365  
 
 ---
 
 ## 🎯 Current Goals
-- Expand knowledge of the **Canadian healthcare landscape** to better understand population health patterns and contribute more meaningfully to health equity research  
-- Strengthen expertise in **healthcare coding systems (ICD-10-CA, CCI)**  
-- Continue publishing healthcare analytics projects with an **equity lens**  
-- Expand portfolio into **machine learning applications in healthcare**  
+- Continue building **end-to-end analytics projects** across multiple domains  
+- Strengthen expertise in **machine learning for business and healthcare applications**  
+- Expand portfolio with tools that automate **data cleaning, transformation, and reporting**  
+- Contribute to open-source projects and collaborations in **data for social good**  
 
 ---
 
@@ -49,4 +59,4 @@ With each project, I aim to turn raw data into insights that can inform fairer p
 - **Email**: acharya.arun@outlook.com  
 - **Location**: Ottawa, Canada  
 
-I’m always open to collaborating on healthcare analytics projects or discussing **health equity data challenges**.  
+I’m always open to collaborating on analytics projects or discussing **data-driven solutions for equity and impact**.  
