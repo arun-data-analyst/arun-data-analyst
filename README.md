@@ -1,62 +1,38 @@
-# 👋 Hi, I’m Arun Acharya (@arun-data-analyst)
+# Hi, I’m Arun 👋
 
-## **Data Analyst | SQL • Python • Power BI | Healthcare & Beyond**
+I’m a data analyst based in **Ottawa, Canada** who enjoys turning messy datasets into clear insights and engaging stories.  My background spans SQL database design, Python analytics, data visualisation and business intelligence.  Whether I’m automating a reporting pipeline or quantifying health inequities, my goal is always the same: **make data accessible and actionable**.
 
-I’m a data analyst with a strong foundation in **data cleaning, analysis, and visualization**.  
-My experience spans across **healthcare, IT services, and retail analytics** — where I’ve built end-to-end solutions to transform raw data into insights that support decision-making.  
+## ⚙️ Technical Toolkit
 
-While I’m passionate about **healthcare and public health analytics**, I also apply my skills to broader domains including **retail price forecasting, automation, and business intelligence dashboards**.  
+- **Languages:** Python, SQL (T‑SQL), DAX
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit‑learn
+- **Tools:** Microsoft SQL Server, Power BI, Jupyter Notebook, Git/GitHub
 
----
+## 🚀 Featured Projects
 
-## 🔍 What I Focus On
-- **Data Cleaning & Validation** — ensuring accuracy and reliability in datasets  
-- **SQL & Python Analysis** — building repeatable, automated workflows  
-- **Visualization & Reporting** — dashboards and decision-ready visuals (Power BI, Excel, Streamlit)  
-- **Healthcare & Public Health Analytics** — analyzing population health data and inequities  
-- **Applied Machine Learning** — predictive models for pricing, demand, and resource planning  
+Here are a few repositories that showcase my range of skills.  Click through to see the code, notebooks and visualisations.
 
----
+| Project | Summary |
+| :--- | :--- |
+| **[Finance-Reporting-SQL](https://github.com/arun-data-analyst/Finance-Reporting-SQL)** | An end‑to‑end SQL project featuring schema design, idempotent scripts, data‑quality checks and KPI views for portfolio finance【702381731543016†L32-L74】.  Includes a polished ERD and Power BI‑ready queries. |
+| **[Healthcare-Analytics-Project](https://github.com/arun-data-analyst/Healthcare-Analytics-Project)** | Statistical analysis of CCHS 2019‑20 data with survey weighting, revealing that 83.7 % of seniors have a chronic condition vs. 19 % of adolescents and highlighting age and income disparities【38415751756450†L39-L63】.  Comes with PDF reports and ready‑to‑run notebooks. |
+| **[Retail-Price-Prediction](https://github.com/arun-data-analyst/Retail-Price-Prediction)** | Machine‑learning models predict pre‑tax retail prices using data from 2017‑2025.  Linear Regression achieves an R² of 0.94, outperforming Random Forest【798920410180296†L20-L31】, and visualisations reveal price inflation and tax‑rate variation【798920410180296†L39-L47】. |
+| **[Healthcare Inequity Dashboard](https://github.com/arun-data-analyst/Healthcare-Inequity-Dashboard)** | Interactive Power BI dashboard that highlights chronic‑condition disparities by age, sex, income and province, with a dynamic Top 5 conditions visual【359685968221634†L13-L19】. |
+| **[CCHS-Chronic-Conditions-EDA](https://github.com/arun-data-analyst/CCHS-Chronic-Conditions-EDA)** | Exploratory analysis of chronic conditions in Canada, comparing national and Ontario patterns and emphasising dual physical/mental health burdens and socioeconomic gradients【286660805030324†L20-L34】. |
 
-## 📈 Recent Projects
+*I maintain other repositories as well—explore my profile for SQL templates, mini API projects and more.*
 
-### 📊 Chronic Disease Prevalence – CCHS 2019–2020 [GitHub](https://github.com/arun-data-analyst/Healthcare-Analytics-Project)
-- Analyzed Canadian Community Health Survey data to estimate prevalence of 10 chronic conditions  
-- Stratified by **age, sex, income, and province**, producing publication-ready equity reports  
+## 📬 Let’s Connect
 
-### 📊 Healthcare Dashboard [GitHub](https://github.com/arun-data-analyst/healthcare-dashboard)
-- Built a **Power BI dashboard** visualizing chronic disease prevalence and inequality gaps  
-- Showcased disparities across four sociodemographic groups  
+Feel free to reach out if you’d like to collaborate, discuss an opportunity or just chat about data.  You can find me on:
 
-### 🛒 Retail Price Prediction [GitHub](https://github.com/arun-data-analyst/retail-price-prediction)
-- Applied **linear regression** to predict retail product prices based on features  
-- Identified patterns in seasonal pricing and demand fluctuations  
+- **LinkedIn:** [arun-acharya-26077a362](https://www.linkedin.com/in/arun-acharya-26077a362)
+- **Email:** arun@example.com
 
-### ⚙️ Automated Reporting Filter – Koza IT Services
-- Implemented **SQL filter logic** within stored procedures  
-- Reduced manual effort and improved reporting accuracy  
+## 🦯 What I’m Learning Now
+
+I’m currently exploring advanced analytics techniques—forecasting, time‑series modelling and causal inference—and experimenting with AI tools to automate data pipelines.  I’m also writing about public‑health data and visualisation on LinkedIn.
 
 ---
 
-## 🧰 Tools & Technologies
-- **Languages:** SQL • Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Visualization:** Power BI • Streamlit • Excel  
-- **Data Cleaning & Processing:** pandas, regex, ETL workflows  
-- **Domains:** Healthcare Analytics • Retail Forecasting • IT Services Reporting  
-- **Other Tools:** GitHub • Selenium • BeautifulSoup • Microsoft 365  
-
----
-
-## 🎯 Current Goals
-- Continue building **end-to-end analytics projects** across multiple domains  
-- Strengthen expertise in **machine learning for business and healthcare applications**  
-- Expand portfolio with tools that automate **data cleaning, transformation, and reporting**  
-- Contribute to open-source projects and collaborations in **data for social good**  
-
----
-
-## 📬 Connect With Me
-- **Email**: acharya.arun@outlook.com  
-- **Location**: Ottawa, Canada  
-
-I’m always open to collaborating on analytics projects or discussing **data-driven solutions for equity and impact**.  
+Thanks for stopping by!  If you like my work, please ⭐ star your favourite repo or send me a message.
